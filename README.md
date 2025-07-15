@@ -11,6 +11,15 @@ Customer360 is a Django-based web application for managing customer communicatio
 - Professional, responsive UI with Bootstrap and custom CSS
 - Extensible: add new fields (e.g., social media) and channels
 
+## Getting Started
+
+First, clone the repository:
+
+```bash
+git clone https://github.com/brendanbadhe/Customer360.git
+cd Customer360
+```
+
 ## Setup Instructions
 
 1. **Install Python and Django**
@@ -19,7 +28,7 @@ Customer360 is a Django-based web application for managing customer communicatio
    - Install Django:
 
      ```
-     python -m pip install Django
+     pip install Django
      ```
 
 2. **Run Migrations**
